@@ -31,7 +31,13 @@ class App extends Component {
     }
 
     const h1Style = {
-      border: "1px solid gray"
+      width: "60%",
+      margin: "16px auto",
+      border: "1px solid gray",
+      boxShadow: "0 2px  3px #ccc",
+      padding: "16px",
+      textAlign: "center",
+      backgroundColor: "#D3D3D3"
     }
 
     return(
